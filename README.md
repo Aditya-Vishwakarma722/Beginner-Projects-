@@ -1,4 +1,4 @@
-# C-JAVA-Beginner-Projects-🎮
+# C-JAVA-Basic-Beginner-Projects-🎮
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)  
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square)  
@@ -17,14 +17,14 @@ Even though these projects are simple, they mark the **first steps** in my codin
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  --
 - ☕ **Java** (Core Java concepts)  
 - 🖥️ IDE: IntelliJ IDEA / VS Code / Eclipse  
 - 🔧 Tools: Git & GitHub for version control  
 
 ---
 
-## 🎯 Learning Goals  
+## 🎯 Learning Goals --  
 ✔️ Practice Java syntax and logic building  
 ✔️ Understand **control structures** (loops, if-else, switch)  
 ✔️ Explore **methods, classes, and objects**  
@@ -32,7 +32,7 @@ Even though these projects are simple, they mark the **first steps** in my codin
 
 ---
 
-## 🚀 Future Plans  
+## 🚀 Future Plans  --
 🔹 Add more **logic-based mini projects**  
 🔹 Experiment with **Java Swing / JavaFX** for GUI  
 🔹 Work on **intermediate projects** like:  
@@ -42,7 +42,7 @@ Even though these projects are simple, they mark the **first steps** in my codin
 
 ---
 
-## 🤝 Contributions  
+## 🤝 Contributions  --
 This repo is primarily for my **personal learning**, but feedback and suggestions are always welcome!  
 If you notice something that can be improved, feel free to open an issue or start a discussion 💡.  
 
