@@ -1,4 +1,4 @@
-# C-JAVA-Basic-Beginner-Projects-🎮
+# JAVA-Basic-Beginner-Projects-🎮
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)  
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square)  
