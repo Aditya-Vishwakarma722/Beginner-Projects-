@@ -1,4 +1,4 @@
-# JAVA-Basic-Beginner-Projects-🎮
+# JAVA-Basic-Beginner-Projects
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)  
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square)  
@@ -9,18 +9,18 @@ Even though these projects are simple, they mark the **first steps** in my codin
 
 ---
 
-## 📌 Projects Included  
-- ✊✋✌ **Rock Paper Scissors** – Play a simple console-based game against the computer.  
-- 🔢 **Guess the Number** – Try to guess the randomly generated number in limited attempts.
-- 📚 **Online Library System** - Online Library to add, Issue, return and Traverse all the Books.
-- 🧮 *(More small projects will be added as I continue learning!)*  
+## 📌 Projects Included  --
+- **Rock Paper Scissors** – Play a simple console-based game against the computer.  
+- **Guess the Number** – Try to guess the randomly generated number in limited attempts.
+- **Online Library System** - Online Library to add, Issue, return and Traverse all the Books.
+- *(More small projects will be added as I continue learning!)*  
 
 ---
 
 ## 🛠️ Tech Stack  --
-- ☕ **Java** (Core Java concepts)  
-- 🖥️ IDE: IntelliJ IDEA / VS Code / Eclipse  
-- 🔧 Tools: Git & GitHub for version control  
+- **Java** (Core Java concepts)  
+- **IDE:** IntelliJ IDEA / VS Code / Eclipse  
+- **Tools:** Git & GitHub for version control  
 
 ---
 
